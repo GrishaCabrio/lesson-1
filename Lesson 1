@@ -1,0 +1,3 @@
+str=”123”
+chislo1 = int(str)
+print(type(chislo1))
